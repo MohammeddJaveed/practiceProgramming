@@ -1,4 +1,8 @@
 // Find the longest common prefix among a group of strings.
+
+//Time and space complexity
+    //Time complexity = O(nlogn)
+    //SPace complexity = O(n)
 const arr=["Cluster","Club","clu"];
 result=""
 function commonPrefix(){

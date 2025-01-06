@@ -1,3 +1,8 @@
+//Palindrome
+
+//Time and space complexity
+    //Time complexity = O(n2)
+    //SPace complexity = O(n2)
 let a = ["ana", "aba", "jjj"];
 let result = [];
 

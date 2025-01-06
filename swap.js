@@ -1,5 +1,9 @@
 // swapping two numbers
 
+
+//Time and space complexity
+    //Time complexity = O(1)
+    //SPace complexity = O(1)
 let a=5;
 let b=10
 function swap(){

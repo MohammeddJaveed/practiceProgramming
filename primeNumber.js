@@ -1,3 +1,9 @@
+//Prime Numbers
+
+
+//Time and space complexity
+    //Time complexity = O(n2)
+    //SPace complexity = O(n)
 let numbers=[10,20,3,4,5];
 let result=[]
 function primeNumbers(){

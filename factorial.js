@@ -1,3 +1,8 @@
+// Factorial
+
+//Time and space complexity
+    //Time complexity = O(n)
+    //SPace complexity = O(1)
 let fact=1
 let num
 function factorial(num){

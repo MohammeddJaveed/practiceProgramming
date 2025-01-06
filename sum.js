@@ -1,4 +1,7 @@
 // Find two numbers in an array that add up to a target
+//Time and space complexity
+    //Time complexity = O(n2)
+    //SPace complexity = O(n2)
 let target=50;
 const arr=[20,30,25,25,30]
 let result=[]

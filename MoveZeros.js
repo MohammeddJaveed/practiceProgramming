@@ -1,3 +1,8 @@
+//Move zeros to right without affecting the order
+
+//Time and space complexity
+    //Time complexity = O(n)
+    //SPace complexity = O(n)
 const arr = [1, 2, 3, 0, 10, 22, 0, 1, 0];
 
 function moveZeros() {

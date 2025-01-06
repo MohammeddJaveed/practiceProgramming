@@ -1,3 +1,8 @@
+//Fibonacci series
+
+//Time and space complexity
+    //Time complexity = O(n)
+    //SPace complexity = O(n)
 let n=20
 let fib=[]
 function fibonacci(){
