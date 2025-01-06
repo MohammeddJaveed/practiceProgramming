@@ -15,8 +15,6 @@ function binarySearch(){
             low=mid+1
         }
     }
-    return -1
-    
-    
+    return -1   
 }
 console.log(binarySearch())
