@@ -1,7 +1,7 @@
 // Find the subarray with a given sum. 
 
 
-const arr = [13, 2, 3, 7, 5]
+const arr = [13, 10, 3, 7, 5]
 const target_sum = 12
 
 function findSubarray(){
