@@ -2,6 +2,8 @@
 
 
 
+
+
 const nums1 = [1,2,3,4,4]
 const nums2 =[2,4,4]
 
@@ -40,7 +42,8 @@ function intersection(){
 // return result
 
 //USING HASHMAP
-
+//Time Complexity - O(n1 + n2)
+//Space Complexity - O(n)
 const set1 = new Set(nums1)
 let result = []
 for(let i =0; i< nums2.length; i++){
