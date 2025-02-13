@@ -2,7 +2,7 @@
 
 
 const arr1 = [12,23,4,5,6,7]
-const arr2 = [,23,4,5,6,7]
+const arr2 = [12,23,4,5,6,7]
 
 function equalArrays(){
     

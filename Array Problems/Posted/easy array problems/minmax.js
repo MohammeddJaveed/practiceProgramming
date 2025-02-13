@@ -13,7 +13,7 @@ function minmax(){
         if(arr[i] > max){
             max = arr[i]
            
-        }
+        } 
 
         if(arr[i] < min){
             min = arr[i]
@@ -23,4 +23,4 @@ function minmax(){
     return {min , max}
    
 }
-console.log(minmax())
+console.log(minmax())   
