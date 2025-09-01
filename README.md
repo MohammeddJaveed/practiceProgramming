@@ -22,4 +22,4 @@ This repository is dedicated to practicing daily coding problems to enhance prob
 - Merge two sorted arrays
 
 ## Progress
-Feel free to check out my progress and solutions. I will be adding more problems and solutions regularly.
+Feel free to check out my progress and solutions. I will be adding more problems and solutions.
