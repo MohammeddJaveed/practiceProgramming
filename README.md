@@ -3,11 +3,9 @@
 This repository is dedicated to practicing daily coding problems to enhance problem-solving skills. By tackling different challenges, I’m continuously improving my understanding of algorithms and optimizing solutions, especially focusing on time and space complexity.
 
 ## What's Inside
-- **Daily Challenges**: A collection of problems and solutions, primarily focusing on easy-to-medium array-related tasks.
 - **Problem-Solving**: Aiming to refine my ability to approach and solve problems effectively.
 
 ## Goals
-- Solve 2 problems daily to develop a consistent coding habit.
 - Focus on optimizing solutions for time and space complexity.
 - Continue building and sharing knowledge through this repository.
 
