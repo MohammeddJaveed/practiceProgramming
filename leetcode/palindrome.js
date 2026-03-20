@@ -1,21 +1,17 @@
-//Palindrome
+//Palindrome of a number
 
-//Time and space complexity
-    //Time complexity = O(n2)
-    //SPace complexity = O(n2)
-let a = ["ana", "aba", "jjj"];
-let result = [];
+const x = -121;
 
-function palindrome() {
-  for (let i = 0; i < a.length; i++) {
-    let text = a[i];
-    let reverse = text.split("").reverse().join("");
-    
-    if (reverse === text) { 
-      result.push(text); 
-    }
+function palindrome(x) {
+  let original = x;
+  if (x < 0) return false;
+  let rev = 0;
+
+  while (x > 0) {
+    rev = rev * 10 + (x % 10);
+    x = Math.floor(x / 10);
   }
-  return result;
+  return original === rev;
 }
 
-console.log(palindrome());
+console.log(palindrome(x));
